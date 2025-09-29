@@ -1,6 +1,6 @@
 # calendartodolist
-# 🗓️ Calendar To-Do List
-A colorful, calendar-based task manager built with Tkinter and tkcalendar.  
+# 🗓️ Calendar To do List
+A colorful, calendar based task manager built with Tkinter and tkcalendar.  
 Add tasks by date, check them off when done, and enjoy persistent storage via JSON.
 ## Features
 📅 Select dates from a calendar
